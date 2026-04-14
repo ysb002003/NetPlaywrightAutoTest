@@ -1,4 +1,8 @@
 # AutoTest
+本软件是自学AI编程做出来的，使用Cursor。
+测试用例可用Excel管理，失败会留图跟视频。
+也可用playwright录制用例。
+支持最好的还是需要自写用例
 
 AutoTest 是一个基于 WinForms + C# .NET + Playwright 的自动化测试桌面工具，用于对目标网站执行测试并输出可追溯结果。
 
