@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursor\\AutoTest\\AutoTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|d:\\cursor\\autotest\\autotest\\autotest\\services\\testcasebatchrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|solutionrelative:autotest\\services\\testcasebatchrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|d:\\cursor\\autotest\\autotest\\autotest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|solutionrelative:autotest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|d:\\cursor\\autotest\\autotest\\autotest\\services\\exceltestcaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|solutionrelative:autotest\\services\\exceltestcaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|d:\\cursor\\autotest\\autotest\\autotest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|solutionrelative:autotest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|d:\\cursor\\autotest\\autotest\\autotest\\listviewitemcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|solutionrelative:autotest\\listviewitemcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|d:\\cursor\\autotest\\autotest\\autotest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|solutionrelative:autotest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|d:\\cursor\\autotest\\autotest\\autotest\\services\\smoketestrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|solutionrelative:autotest\\services\\smoketestrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|d:\\cursor\\autotest\\autotest\\autotest\\models\\testcaseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|solutionrelative:autotest\\models\\testcaseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|d:\\cursor\\autotest\\autotest\\autotest\\models\\testcaseexecutionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|solutionrelative:autotest\\models\\testcaseexecutionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|d:\\cursor\\autotest\\autotest\\autotest\\models\\smoketestmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|solutionrelative:autotest\\models\\smoketestmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|d:\\cursor\\autotest\\autotest\\autotest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A476B7C4-9483-4640-96D8-8F2FB6B25C3C}|AutoTest\\AutoTest.csproj|solutionrelative:autotest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestCaseBatchRunner.cs",
+              "DocumentMoniker": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Services\\TestCaseBatchRunner.cs",
+              "RelativeDocumentMoniker": "AutoTest\\Services\\TestCaseBatchRunner.cs",
+              "ToolTip": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Services\\TestCaseBatchRunner.cs",
+              "RelativeToolTip": "AutoTest\\Services\\TestCaseBatchRunner.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwEoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:02:07.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListViewItemComparer.cs",
+              "DocumentMoniker": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\ListViewItemComparer.cs",
+              "RelativeDocumentMoniker": "AutoTest\\ListViewItemComparer.cs",
+              "ToolTip": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\ListViewItemComparer.cs",
+              "RelativeToolTip": "AutoTest\\ListViewItemComparer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:40:49.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Program.cs",
+              "RelativeDocumentMoniker": "AutoTest\\Program.cs",
+              "ToolTip": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Program.cs",
+              "RelativeToolTip": "AutoTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:40:51.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Form1.cs",
+              "RelativeDocumentMoniker": "AutoTest\\Form1.cs",
+              "ToolTip": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Form1.cs",
+              "RelativeToolTip": "AutoTest\\Form1.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAkwEEBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:27:28.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExcelTestCaseService.cs",
+              "DocumentMoniker": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Services\\ExcelTestCaseService.cs",
+              "RelativeDocumentMoniker": "AutoTest\\Services\\ExcelTestCaseService.cs",
+              "ToolTip": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Services\\ExcelTestCaseService.cs",
+              "RelativeToolTip": "AutoTest\\Services\\ExcelTestCaseService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:37:49.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SmokeTestRunner.cs",
+              "DocumentMoniker": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Services\\SmokeTestRunner.cs",
+              "RelativeDocumentMoniker": "AutoTest\\Services\\SmokeTestRunner.cs",
+              "ToolTip": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Services\\SmokeTestRunner.cs",
+              "RelativeToolTip": "AutoTest\\Services\\SmokeTestRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:40:42.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AutoTest\\Form1.Designer.cs",
+              "ToolTip": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Form1.Designer.cs",
+              "RelativeToolTip": "AutoTest\\Form1.Designer.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAD4v6AAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:25:42.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestCaseExecutionResult.cs",
+              "DocumentMoniker": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Models\\TestCaseExecutionResult.cs",
+              "RelativeDocumentMoniker": "AutoTest\\Models\\TestCaseExecutionResult.cs",
+              "ToolTip": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Models\\TestCaseExecutionResult.cs",
+              "RelativeToolTip": "AutoTest\\Models\\TestCaseExecutionResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:40:31.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SmokeTestModels.cs",
+              "DocumentMoniker": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Models\\SmokeTestModels.cs",
+              "RelativeDocumentMoniker": "AutoTest\\Models\\SmokeTestModels.cs",
+              "ToolTip": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Models\\SmokeTestModels.cs",
+              "RelativeToolTip": "AutoTest\\Models\\SmokeTestModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:40:28.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestCaseItem.cs",
+              "DocumentMoniker": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Models\\TestCaseItem.cs",
+              "RelativeDocumentMoniker": "AutoTest\\Models\\TestCaseItem.cs",
+              "ToolTip": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Models\\TestCaseItem.cs",
+              "RelativeToolTip": "AutoTest\\Models\\TestCaseItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:38:24.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Form1.cs",
+              "RelativeDocumentMoniker": "AutoTest\\Form1.cs",
+              "ToolTip": "D:\\Cursor\\AutoTest\\AutoTest\\AutoTest\\Form1.cs [Design]",
+              "RelativeToolTip": "AutoTest\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:25:37.006Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
