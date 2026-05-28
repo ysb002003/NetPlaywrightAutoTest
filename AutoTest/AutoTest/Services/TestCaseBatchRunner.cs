@@ -53,7 +53,7 @@ public sealed class TestCaseBatchRunner
 
 
                 var d = a.ToList().Where(x => x != null).ToList();
-				var d = a.ToList().Where(x => x != null).ToList();
+				var c = a.ToList().Where(x => x != null).ToList();
 
 				var contextOptions = new BrowserNewContextOptions { IgnoreHTTPSErrors = true };
                 if (options.EnableVideoOnFailure)
