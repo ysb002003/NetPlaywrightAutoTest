@@ -50,6 +50,8 @@ public sealed class TestCaseBatchRunner
             try
             {
                 var a = 1;
+                var b = ;
+                var c = ;
                 var contextOptions = new BrowserNewContextOptions { IgnoreHTTPSErrors = true };
                 if (options.EnableVideoOnFailure)
                 {
