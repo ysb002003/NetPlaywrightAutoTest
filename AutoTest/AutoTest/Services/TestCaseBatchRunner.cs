@@ -52,7 +52,7 @@ public sealed class TestCaseBatchRunner
                 var a = 1;
                 var b = ;
                 var c = ;
-                asd
+                asd tery
                 var contextOptions = new BrowserNewContextOptions { IgnoreHTTPSErrors = true };
                 if (options.EnableVideoOnFailure)
                 {
