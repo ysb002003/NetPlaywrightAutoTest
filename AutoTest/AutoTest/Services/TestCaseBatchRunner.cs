@@ -65,8 +65,8 @@ public sealed class TestCaseBatchRunner
             catch (Exception ex)
             {
                 status = "Failed";
-                message = ex.Message;
-                actualResult = ex.Message;
+                message = ex.Message;   
+                actualResult = ex.Message;   
                 if (page is not null)
                 {
                     screenshotPath = Path.Combine(caseDir, "failure.png");
