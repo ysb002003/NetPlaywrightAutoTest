@@ -52,8 +52,9 @@ public sealed class TestCaseBatchRunner
                 var a = 1;
                 var b = ;
                 var c = ;
-                asd tery
-                var contextOptions = new BrowserNewContextOptions { IgnoreHTTPSErrors = true };
+                var d = a.ToList().Where();
+
+				var contextOptions = new BrowserNewContextOptions { IgnoreHTTPSErrors = true };
                 if (options.EnableVideoOnFailure)
                 {
                     contextOptions.RecordVideoDir = videoDir;
